@@ -1,0 +1,126 @@
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.dll
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.pdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid.apk
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid-Signed.apk
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\ClienteAndroid.dll
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\ClienteAndroid.pdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\bin\ClienteAndroid.ClienteAndroid.apk
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\res\layout\main.xml
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\res\values\strings.xml
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\res\drawable\icon.png
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\R.cs.flag
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\uploadflags.txt
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\Java.Interop.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\Mono.Android.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\mscorlib.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.Core.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.Net.Http.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.Xml.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\ClienteAndroid.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+c:\users\isaac medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\res\layout\autenticacao.xml
+C:\Users\Isaac Medeiros\documents\visual studio 2015\Projects\ClienteAndroid\ClienteAndroid\obj\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.dll
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.pdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid.apk
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid-Signed.apk
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\ClienteAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\ClienteAndroid.dll
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\ClienteAndroid.pdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\bin\ClienteAndroid.ClienteAndroid.apk
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\res\layout\autenticacao.xml
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\R.cs.flag
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\uploadflags.txt
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\C.E\ClienteAndroid\ClienteAndroid\obj\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\ClienteAndroid.csprojResolveAssemblyReference.cache
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\ClienteAndroid.dll
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\ClienteAndroid.pdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\ClienteAndroid.dll
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\ClienteAndroid.pdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid.apk
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid-Signed.apk
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\bin\ClienteAndroid.ClienteAndroid.apk
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\res\layout\autenticacao.xml
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\res\layout\listrest.xml
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\R.cs.flag
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\uploadflags.txt
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\System.Json.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.Json.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb
