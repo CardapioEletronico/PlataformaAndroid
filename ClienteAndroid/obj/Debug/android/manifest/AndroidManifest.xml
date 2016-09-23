@@ -4,7 +4,8 @@
   <uses-sdk android:minSdkVersion="16" />
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-  <application android:label="ClienteAndroid" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
+  <application android:label="ClienteAndroid" android:name="android.app.Application" android:allowBackup="true" android:debuggable="true">
+    <activity android:label="Cardapio" android:name="md5430eef72268cc48c2c6422a446db3170.Cardapio" />
     <activity android:icon="@drawable/icon" android:label="ClienteAndroid" android:name="md5430eef72268cc48c2c6422a446db3170.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />

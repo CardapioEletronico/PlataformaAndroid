@@ -55,7 +55,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cardapio.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Models\Cardapio.cs" />
     <Compile Include="Models\Restaurante.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -69,6 +71,9 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\listRest.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\Cardapiolay.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

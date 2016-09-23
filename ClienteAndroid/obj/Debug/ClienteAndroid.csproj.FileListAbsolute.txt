@@ -123,4 +123,52 @@ C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Deb
 C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\android\assets\System.Json.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\obj\Debug\ClienteAndroid.dll.mdb
-C:\Users\Isaac Medeiros\Desktop\design\Lista restaurantes\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\ClienteAndroid.dll
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\ClienteAndroid.pdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid.apk
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\ClienteAndroid.ClienteAndroid-Signed.apk
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\ClienteAndroid.dll
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\ClienteAndroid.pdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\bin\ClienteAndroid.ClienteAndroid.apk
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\res\layout\autenticacao.xml
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\res\layout\listrest.xml
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\res\layout\main.xml
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\res\values\strings.xml
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\res\drawable\icon.png
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\R.cs.flag
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\uploadflags.txt
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\res\layout\cardapiolay.xml
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\mscorlib.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.Core.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.Json.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.Xml.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Json.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\ClienteAndroid.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb

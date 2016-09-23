@@ -1,3 +1,7 @@
+ClienteAndroid.Cardapio, ClienteAndroid;md5430eef72268cc48c2c6422a446db3170.Cardapio
+ClienteAndroid.Cardapio, ClienteAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5430eef72268cc48c2c6422a446db3170.Cardapio
+ClienteAndroid.Cardapio;md5430eef72268cc48c2c6422a446db3170.Cardapio
+clienteandroid.Cardapio;md5430eef72268cc48c2c6422a446db3170.Cardapio
 ClienteAndroid.MainActivity, ClienteAndroid;md5430eef72268cc48c2c6422a446db3170.MainActivity
 ClienteAndroid.MainActivity, ClienteAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5430eef72268cc48c2c6422a446db3170.MainActivity
 ClienteAndroid.MainActivity;md5430eef72268cc48c2c6422a446db3170.MainActivity
