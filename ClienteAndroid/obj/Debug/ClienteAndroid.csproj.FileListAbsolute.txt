@@ -170,5 +170,6 @@ C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndr
 C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\ClienteAndroid.csprojResolveAssemblyReference.cache
 C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\obj\Debug\ClienteAndroid.dll.mdb
 C:\Users\Isaac Medeiros\Desktop\Projeto Cardápio - Arquivos\Android\ClienteAndroid\bin\Debug\ClienteAndroid.dll.mdb

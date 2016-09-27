@@ -34,22 +34,15 @@ namespace ClienteAndroid
             SetContentView(Resource.Layout.Main);
             LoadContent();
             TextView text = FindViewById<TextView>(Resource.Id.textView1);
-          
+
 
             Button asd = FindViewById<Button>(Resource.Id.button1);
 
             int i = 0;
-       
-               
-
-             
-            
-
-
 
 
         }
-       
+
 
 
         private async Task<JsonValue> Get()
@@ -99,12 +92,16 @@ namespace ClienteAndroid
             SimpleAdapter adapter = new SimpleAdapter(this, dados, layout, from, to);
             ListView.Adapter = adapter;
             ListView.ItemClick += ListView_ItemClick;
-            
-            
+
+
 
         }
 
-        private void ListView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
+
+
+
+
+       private void ListView_ItemClick(object sender, AdapterView.ItemClickEventArgs e)
         {
             //Get our item from the list adapter
             var item = this.ListView.GetItemAtPosition(e.Position);
@@ -112,8 +109,13 @@ namespace ClienteAndroid
             //Make a toast with the item name just to show it was clicked
             Toast.MakeText(this, " Clicked!", ToastLength.Short).Show();
 
+            var intent = new Intent(this, typeof(Navigation));
+            StartActivity(intent);
 
-        }
+                         
+
+
+    }
 
        /* private void click(object sender, AdapterView.ItemSelectedEventArgs e)
         {

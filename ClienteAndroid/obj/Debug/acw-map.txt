@@ -6,3 +6,7 @@ ClienteAndroid.MainActivity, ClienteAndroid;md5430eef72268cc48c2c6422a446db3170.
 ClienteAndroid.MainActivity, ClienteAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5430eef72268cc48c2c6422a446db3170.MainActivity
 ClienteAndroid.MainActivity;md5430eef72268cc48c2c6422a446db3170.MainActivity
 clienteandroid.MainActivity;md5430eef72268cc48c2c6422a446db3170.MainActivity
+ClienteAndroid.Navigation, ClienteAndroid;md5430eef72268cc48c2c6422a446db3170.Navigation
+ClienteAndroid.Navigation, ClienteAndroid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5430eef72268cc48c2c6422a446db3170.Navigation
+ClienteAndroid.Navigation;md5430eef72268cc48c2c6422a446db3170.Navigation
+clienteandroid.Navigation;md5430eef72268cc48c2c6422a446db3170.Navigation
